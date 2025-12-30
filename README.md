@@ -1,5 +1,5 @@
 # SHAILJA PANDEY's BCA Programs
-This folder contains HTML programs and assignments created by Prashant Tiwari for BCA 1B Batch 2.
+This folder contains HTML programs and assignments created by SHAILJA PANDEY for BCA 1B Batch 2.
 
 # Contents
 program1.html to program19.html: A collection of HTML programs demonstrating various concepts and assignments.
